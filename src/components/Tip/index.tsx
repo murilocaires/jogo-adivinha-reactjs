@@ -1,5 +1,5 @@
 import styles from "./styles.module.css";
-import tipIcon from "../../assets/Tip.svg"
+import tipIcon from "../../assets/tip.svg"
 
 type Props = {
     tip : string;
